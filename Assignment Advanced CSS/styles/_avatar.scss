@@ -1,0 +1,10 @@
+.avatar {
+    display: flex;
+    justify-content: center;
+    order: 2;
+    img {
+        max-width: 40%;
+        border-radius: 50%;
+        border: $border;
+  }
+}

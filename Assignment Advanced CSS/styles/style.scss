@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+$font-stack:'Roboto', sans-serif;
+$border: solid 8px #ffffff;
+$boxShadow: 0 10px 10px 0 #0000005c;
+
+@import "./card";
+@import "./avatar";
+@import "./footer";
+body {
+    background-color: #c3cfe2;
+    margin: 0;
+}

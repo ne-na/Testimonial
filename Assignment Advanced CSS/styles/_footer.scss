@@ -1,0 +1,18 @@
+.footer {
+    background-color: #686de0;
+    max-width: 100%;
+    border-radius: 0 0 10px 10px;
+    box-shadow: $boxShadow;
+    h1 {
+    font-family: $font-stack;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 50px;
+  }
+    h2{
+    font-family: $font-stack;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.71);
+  }
+}

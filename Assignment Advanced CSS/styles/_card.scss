@@ -1,0 +1,17 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    max-height: 400px;
+    background-color: #fff;
+    box-shadow: $boxShadow;
+    border-radius: 10px;
+    p{      
+        font-family: $font-stack;
+        color: rgb(96, 96, 101);
+        text-align: left;
+        font-size: 20px;
+        padding: 8%;
+    } 
+  }
+  
